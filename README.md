@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Appointment Booking App
+
+A web application for managing appointments.
+
+🔗 Live Demo: [Click Here](https://butterfly098777.github.io/appointment-booking/)
+
+## Tech Stack
+- Angular
+- HTML/CSS
+- GitHub Pages (Deployment)
+
+## How to Run Locally
+```bash
+git clone https://github.com/butterfly098777/appointment-booking.git
+cd appointment-booking
+npm install
+ng serve
+
